@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alina Zaman</h1>
 <h3 align="center">I'm in my final year of Computer Science at BUET and will be graduating soon!</h3>
-<img  align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl0dXZwNjliM3lrbDhzOGRmYXpyam91czlucDJpanF5YXBkMWlqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
+<img  align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/JTVWACMOESFcA1oewp/giphy.gif?cid=6c09b952np5lomakm89cpk99cog1v7wazg53mf40j3o8t0kh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
 - 🔭 I’m currently working on [Thoughts](https://github.com/alina9822/Thoughts-Backend)
 
